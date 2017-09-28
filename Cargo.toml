@@ -1,0 +1,8 @@
+[package]
+name = "pyo3_numpy"
+version = "0.2.0"
+authors = ["Matthieu Bizien <matthieu@databiz.io>"]
+
+[dependencies.pyo3]
+version = "0.2"
+default-features = false
